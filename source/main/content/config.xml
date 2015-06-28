@@ -1,6 +1,7 @@
 <!-- This is Config File! -->
-foo=Alex
-bar=Trussell
-void=cheese
-42=false
-xkcd=Must read!!
+foo=
+bar=
+void=
+42=
+xkcd=
+<!-- Please leave sttings in master branch empty because variables are top secret! -->
